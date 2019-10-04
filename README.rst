@@ -212,7 +212,7 @@ Contributions to this library are always welcome and highly encouraged
 6. Run step 4 again. If your changes are not 100% covered, go back to
    step 5.
 7. Commit and push your changes.
-8. Submit a pull request.
+8. Submit a pull request(PR).
 
 --------------
 
